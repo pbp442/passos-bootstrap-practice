@@ -10,3 +10,19 @@
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Import partials here
+@import "navbar";
+@import "jumbotron";
+@import "content";
+@import "footer";
+
+.lead{
+    font-family: Arial, Helvetica, sans-serif, cursive;
+    color: white;
+    text-align: center;
+}       
+
+h1 {
+    font-family: 'Kalam', cursive;
+}
+
+
